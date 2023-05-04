@@ -1,2 +1,2 @@
-# tension-design
-A repository used to store the testing implementations when designing the solution.
+# Tension Design
+A collection of testing implementations utilised when designing the solution.
